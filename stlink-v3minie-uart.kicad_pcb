@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "STLINK-V3 MINIE UART")
+		(date "2026-05-26")
+		(rev "01")
+		(company "Rémi Ait-Younes")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
