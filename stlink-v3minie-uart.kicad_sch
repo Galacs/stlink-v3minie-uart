@@ -1683,7 +1683,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0779e9dd-e92f-4b34-b288-59fb4b0ac2c4")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 133.604 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1770,7 +1770,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1788,7 +1788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c6f5d03-3aa3-4c2b-ac21-92d8b145d39e")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 182.88 106.045 0)
 			(hide yes)
 			(show_name no)
@@ -1849,7 +1849,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -1867,7 +1867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45c17a54-fdba-499b-98fc-90c763424e76")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR04"
 			(at 185.42 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1927,7 +1927,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "#PWR08")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -1946,7 +1946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75e22cbc-e293-4b40-af68-215153b8c975")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 102.87 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2020,7 +2020,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -2037,7 +2037,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0522780-466d-42ba-b18b-36b8b5ebc495")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR01"
 			(at 147.32 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2097,7 +2097,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "#PWR011")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2114,7 +2114,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1584997-1de0-40af-9c42-32f791a156c1")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR03"
 			(at 173.99 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2176,7 +2176,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "#PWR09")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2194,7 +2194,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc5c933c-7286-4132-b2d5-d50c39e1d8fc")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR02"
 			(at 147.32 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -2256,7 +2256,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "#PWR010")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -2273,7 +2273,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d322b41e-ed45-4a0f-be00-2affb60538ca")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 181.864 98.044 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2342,7 +2342,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -2360,7 +2360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e87b7e91-93f1-48fb-8362-db74e77e490a")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01"
 			(at 149.225 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2421,7 +2421,7 @@
 		(instances
 			(project "stlink-v3minie-uart"
 				(path "/efe53425-0bb8-4b47-9e35-dff4b195a83f"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
