@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "efe53425-0bb8-4b47-9e35-dff4b195a83f")
 	(paper "A4")
+	(title_block
+		(title "STLINK-V3 MINIE UART")
+		(date "2026-05-26")
+		(rev "01")
+		(company "Rémi Ait-Younes")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
