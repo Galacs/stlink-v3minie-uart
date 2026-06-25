@@ -1522,6 +1522,42 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Rémi A. 26-06"
+		(at 156.141734 98.916522 0)
+		(layer "B.SilkS")
+		(uuid "aea4a341-63a1-49ef-a129-03582409c501")
+		(effects
+			(font
+				(size 0.9 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "R01"
+		(at 146.361734 98.916522 0)
+		(layer "B.SilkS")
+		(uuid "9d452f4e-3c7c-49b4-82f0-4bd6afe5dd6b")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "ST to UART"
+		(at 156.361734 96.916522 0)
+		(layer "B.SilkS")
+		(uuid "315dc516-c7b8-4c21-8ab7-3012fc1b2a62")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 146 110.75)
 		(end 144.92 109.67)
