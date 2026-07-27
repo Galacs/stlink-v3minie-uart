@@ -10,7 +10,7 @@
 	(title_block
 		(title "STLINK-V3 MINIE UART")
 		(date "2026-05-26")
-		(rev "01")
+		(rev "02")
 		(company "Rémi Ait-Younes")
 	)
 	(layers
@@ -1539,7 +1539,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "R01"
+	(gr_text "R02"
 		(at 146.361734 98.916522 0)
 		(layer "B.SilkS")
 		(uuid "9d452f4e-3c7c-49b4-82f0-4bd6afe5dd6b")

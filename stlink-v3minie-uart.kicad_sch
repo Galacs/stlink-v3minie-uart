@@ -7,7 +7,7 @@
 	(title_block
 		(title "STLINK-V3 MINIE UART")
 		(date "2026-05-26")
-		(rev "01")
+		(rev "02")
 		(company "Rémi Ait-Younes")
 	)
 	(lib_symbols
