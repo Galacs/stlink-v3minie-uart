@@ -184,25 +184,19 @@
 		(path "/0779e9dd-e92f-4b34-b288-59fb4b0ac2c4")
 		(sheetname "/")
 		(sheetfile "stlink-v3minie-uart.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10")
-			)
-		)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -3.75 2.75)
-			(end -3.75 0)
+			(start -3.6 2.75)
+			(end -3.6 0)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(layer "Edge.Cuts")
-			(uuid "1cb7dd52-be22-4247-a36c-a9c2b0ef5dfb")
+			(uuid "037db2d3-fb52-4013-91ec-84d840fcd028")
 		)
 		(fp_line
-			(start -3.75 0)
+			(start -3.6 0)
 			(end 2 0)
 			(stroke
 				(width 0.05)
@@ -212,8 +206,18 @@
 			(uuid "61f44c1d-f4d2-48de-a6fc-a2988987eea0")
 		)
 		(fp_line
-			(start -4.25 2.75)
-			(end -4.25 0)
+			(start -4.4 2.75)
+			(end -4.4 0)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "1cb7dd52-be22-4247-a36c-a9c2b0ef5dfb")
+		)
+		(fp_line
+			(start -8.15 0)
+			(end -4.4 0)
 			(stroke
 				(width 0.05)
 				(type default)
@@ -221,20 +225,10 @@
 			(layer "Edge.Cuts")
 			(uuid "668a454f-6854-4541-97f9-e3896fda5ba2")
 		)
-		(fp_line
-			(start -8 0)
-			(end -4.25 0)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(layer "Edge.Cuts")
-			(uuid "037db2d3-fb52-4013-91ec-84d840fcd028")
-		)
 		(fp_arc
-			(start -3.75 2.75)
-			(mid -4 3)
-			(end -4.25 2.75)
+			(start -3.6 2.75)
+			(mid -4 3.15)
+			(end -4.4 2.75)
 			(stroke
 				(width 0.05)
 				(type default)
